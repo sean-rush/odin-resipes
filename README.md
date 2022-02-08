@@ -11,3 +11,4 @@ hard a hard time with the git setup. for future issues follow these steps
 	3. git clone git@github.com:sean-rush/odin-resipes.git (copy ssh link 
 	   from new repository)
 	4.cd (new repository name)
+	
